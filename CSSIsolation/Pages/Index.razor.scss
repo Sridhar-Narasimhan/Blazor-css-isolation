@@ -1,0 +1,5 @@
+﻿$primary-color: red;
+
+::deep h1 {
+    color: $primary-color;
+}
